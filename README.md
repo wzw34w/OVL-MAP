@@ -1,5 +1,6 @@
 # OVL-MAP
-This repository is used to display the scientific results of the paper "OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments".
+OVL-MAP: An Online Visual Language Map Approach for Vision-and-Language Navigation in Continuous Environments
+
 
  ## Abstract
 Vision-and-Language Navigation in Continuous Environments involves in agents that navigate in 3D continuous environments based on visual observations and natural language instructions. Effective navigation in VLN-CE requires a deep understanding of the environment, which is often supported by navigation maps. However, existing approaches predominantly focus on topological and semantic maps, which offers limited scene understanding and diminishes navigation performance, especially in complex or unknown environments.
